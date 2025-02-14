@@ -47,14 +47,17 @@ The dataset was preprocessed to handle missing values, encode categorical variab
 - Loaded and cleaned the dataset.
 - Encoded categorical variables (e.g., gender).
 - Added new features like BMI (Body Mass Index).
+  
 **Exploratory Data Analysis (EDA)**:
 - Conducted data visualization to understand relationships between variables.
 - Analyzed correlations between features and the target variable (calories burned).
 - Feature Engineering:
 - Scaled and normalized the data for better model performance.
+  
 **Model Training**:
--Split the dataset into training and testing sets.
--Trained a Linear Regression model on the training data.
+- Split the dataset into training and testing sets.
+- Trained a Linear Regression model on the training data.
+
 **Model Evaluation**:
 - Evaluated the model using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R2 Score.
 - Achieved an R2 score of 0.96, indicating high accuracy.
@@ -73,6 +76,7 @@ The dataset was preprocessed to handle missing values, encode categorical variab
 
 ## Results
 The Linear Regression model performed well with the following evaluation metrics:
+
 **Mean Absolute Error (MAE)**: 8.03
 
 **Mean Squared Error (MSE)**: 121.66
