@@ -1,4 +1,3 @@
-# ML-projects
 # Calorie Predictor - Machine Learning Project
 This project focuses on predicting the number of calories burned during physical activities using a Linear Regression model. The model takes into account various factors such as age, height, weight, heart rate, and body temperature to estimate calorie expenditure.
 
